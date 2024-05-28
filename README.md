@@ -28,5 +28,4 @@ CE é a Community Edition, edição gratuita, que nos possibilita utilizar o Doc
 EE é a Enterprise Edition, edição paga, há uma garantia maior das versões que são disponibilizadas e você tem suporte do time do Docker caso precise.
 
 Como rodar um container:
-![image](https://github.com/PatrocksOficial/Docker/assets/87246660/7e13ea57-c2a1-46e7-9518-b9d0a1e99643)
-
+![image](https://github.com/PatrocksOficial/Docker/assets/87246660/ec9a1bfe-a5a7-46ab-ba65-6e96422f4bb3)
