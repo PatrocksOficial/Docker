@@ -46,3 +46,12 @@ Imagem é o próprio "projeto" que será executado pelo container, todas as inst
 Container é o Docker rodando alguma imagem, consequentemente executando algum código proposto por ela.
 
 O fluxo é: Programar uma imagem e executá-la por meio de um container.
+
+
+Onde encontrar imagens?
+
+Vamos encontrar imagens no repositório do Docker: https://hub.docker.com
+No site pode verificar quais as imagens existem das linguagens e tecnologias que estamos procurando, exemplo C#, Java, Node.js.
+E também aprender como utilizá-las.
+Executar a imagem em um container com docker run <imagem>
+
