@@ -29,3 +29,20 @@ EE é a Enterprise Edition, edição paga, há uma garantia maior das versões q
 
 Como rodar um container:
 ![image](https://github.com/PatrocksOficial/Docker/assets/87246660/ec9a1bfe-a5a7-46ab-ba65-6e96422f4bb3)
+
+O que são containers?
+
+São um pacote de códigos que podem executar uma ação, por exemplo, rodar uma aplicação de Node.js, PHP, Python e etc.
+Ou seja, nossos projetos seram utilizados dentro dos containers que criarmos/utilizarmos.
+Containers geralmente são separados cada um para executar somente uma função, exemplo, um container para rodar o banco em mysql, um container para rodar a aplicação em C# e dentre outros.
+Containers utilizam as imagens para serem executados.
+Você pode utilizar múltiplos containers para rodar juntos diversas aplicações como citei acima.
+
+
+Container x Imagem
+
+Imagem e Container são recursos fundamentais do Docker.
+Imagem é o próprio "projeto" que será executado pelo container, todas as instruções estarão declaradas nela.
+Container é o Docker rodando alguma imagem, consequentemente executando algum código proposto por ela.
+
+O fluxo é: Programar uma imagem e executá-la por meio de um container.
